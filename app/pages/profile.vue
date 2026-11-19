@@ -68,11 +68,11 @@ const hobbies = [
           </dl>
           <div class="mt-7 border-t border-[#e8e8df] pt-5">
             <p class="text-xs font-semibold uppercase tracking-[0.14em] text-[#879082]">Find me online</p>
-            <p class="mt-2 text-sm leading-6 text-[#68746a]">GitHub, LinkedIn, and email links can be added here when ready.</p>
+            <p class="mt-2 text-sm leading-6 text-[#68746a]">Find my work, connect with me, or send me an email.</p>
             <div class="mt-3 flex flex-wrap gap-2">
-              <span class="rounded-full bg-[#f0f1eb] px-3 py-1.5 text-xs font-medium text-[#677265]">GitHub</span>
-              <span class="rounded-full bg-[#f0f1eb] px-3 py-1.5 text-xs font-medium text-[#677265]">LinkedIn</span>
-              <span class="rounded-full bg-[#f0f1eb] px-3 py-1.5 text-xs font-medium text-[#677265]">Email</span>
+              <a href="https://github.com/notaldis" target="_blank" rel="noopener noreferrer" class="rounded-full bg-[#f0f1eb] px-3 py-1.5 text-xs font-medium text-[#677265] transition hover:bg-[#e6eadc]">GitHub</a>
+              <a href="https://www.linkedin.com/in/aldis-valdehueza-23183133a/" target="_blank" rel="noopener noreferrer" class="rounded-full bg-[#f0f1eb] px-3 py-1.5 text-xs font-medium text-[#677265] transition hover:bg-[#e6eadc]">LinkedIn</a>
+              <a href="mailto:aldisvaldehueza@gmail.com" class="rounded-full bg-[#f0f1eb] px-3 py-1.5 text-xs font-medium text-[#677265] transition hover:bg-[#e6eadc]">Email</a>
             </div>
           </div>
         </div>
