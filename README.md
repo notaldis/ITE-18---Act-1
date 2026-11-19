@@ -47,4 +47,4 @@ tsconfig.json
 
 ## Personal links
 
-The profile page currently reserves space for GitHub, LinkedIn, and email links. Replace those labels with your URLs once you have them.
+The profile page currently reserves space for GitHub, LinkedIn, and email links.
